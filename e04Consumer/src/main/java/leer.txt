@@ -1,0 +1,3 @@
+Consumer<TipoDeDato> consumer
+
+método: consumer.accept(...) // no devuelve nada

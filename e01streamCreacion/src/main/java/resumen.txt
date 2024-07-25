@@ -1,0 +1,10 @@
+Predicate: retorna true/false
+
+Function: Function<TipoDeEntrega, TipoDeRetorno> fun;
+
+Consumer: reciben dato(s) pero no retornar resultado
+
+Supplier: retorna resultado, pero no reciben datos
+
+Reference: System.out::println
+

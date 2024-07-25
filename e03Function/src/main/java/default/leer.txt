@@ -1,0 +1,3 @@
+
+Function<tipoDeEntrega, tipoDeRetorno> function;
+
